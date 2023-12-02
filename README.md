@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elias! <br/><a href="https://github.com/EliasAmeur">Programmer</a>, <a href="https://www.linkedin.com/in/elias-ameur">Software Developer</a></h1>
+<h1>Hi, I'm Elias! <br/><a href="https://github.com/EliasAmeur"></a>, <a href="https://www.linkedin.com/in/elias-ameur">Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
