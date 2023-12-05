@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Full Stack Web App </b>
-  - [True Performance Athletics Web Application](https://github.com/EliasAmeur)
+  - [True Performance Athletics Web Application](https://github.com/EliasAmeur/FullStack-Project.git)
 
 
 <h2> Connect with me:</h2>
